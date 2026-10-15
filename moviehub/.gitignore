@@ -1,1 +1,2 @@
 .jwt_secret
+openssl rand -hex 32 > .jwt_secret
